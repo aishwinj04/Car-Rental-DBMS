@@ -1,5 +1,6 @@
 
-The Car Rental DBMS is designed to organize customer, review, vehicle, reservation, rental, and payment data efficiently and effectively. It also tracks vehicle maintenance to ensure customer safety and satisfaction when making a reservation. Using a DBMS for this scenario is vital to keep track of operations among thousands of customers, keep the integrity of the data, and avoid redundancy. 
+The Car Rental DBMS is designed to organize customer, review, vehicle, reservation, rental, and payment data efficiently and effectively. It also tracks vehicle maintenance to ensure customer safety and satisfaction 
+when making a reservation. Using a DBMS for this scenario is vital to keep track of operations among thousands of customers, keep the integrity of the data, and avoid redundancy. 
 
 
 
