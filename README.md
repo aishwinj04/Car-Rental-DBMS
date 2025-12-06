@@ -5,7 +5,12 @@ when making a reservation. Using a DBMS for this scenario is vital to keep track
 
 
 
-** JAVA PROGRAM:
+
+
+
+
+
+## JAVA PROGRAM:
 Go to: https://www.oracle.com/ca-en/database/technologies/appdev/jdbc-downloads.html 
 Download ojdbc11.jar and add it to the project folder.
 
